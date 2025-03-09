@@ -347,7 +347,7 @@ Thank you for reading.
 | Packet Storm | https://packetstormsecurity.com |
 | Sploitus | https://sploitus.com |
 
-### CVEs
+### CVEs pb
 
 | CVE | Descritpion | URL |
 | --- | --- | --- |
